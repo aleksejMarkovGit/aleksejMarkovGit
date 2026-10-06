@@ -10,7 +10,8 @@ I am also interested in **game development**, real-time systems and mathematical
 
 ---
 
-## 👨‍💻 Engineering Experience
+<details>
+<summary><b>👨‍💻 Engineering Experience</b></summary>
 
 My professional work is connected with aviation software and simulation systems, including:
 
@@ -38,23 +39,29 @@ Worked on a configurable cockpit demonstrator with scalable UI, navigation displ
 
 Implemented failure-simulation logic and corresponding cockpit indications for abnormal engine-start scenarios. Refactored existing simulation components and integrated the new functionality into the working software branch.
 
+</details>
+
 ---
 
-## 🛠️ Tech Stack
+<details>
+<summary><b>🛠️ Tech Stack</b></summary>
 
 ### Languages
+
 - **C++** — primary language
 - **Python** — actively learning and using for supporting tasks
 - **QML**
 - **C#** — used in individual work tasks
 
 ### Frameworks & Libraries
+
 - **Qt**
 - **STL**
 - **Boost / Boost.Asio**
 - **SFML**
 
 ### Build, Tools & Platforms
+
 - **CMake**
 - **Git / SVN**
 - **Visual Studio**
@@ -62,9 +69,12 @@ Implemented failure-simulation logic and corresponding cockpit indications for a
 - **Windows**
 - **Linux / Astra Linux**
 
+</details>
+
 ---
 
-## 🎮 Personal Projects
+<details>
+<summary><b>🎮 Personal Projects</b></summary>
 
 ### 🚀 [Space Salvager](https://github.com/aleksejMarkovGit/SpaceSalvager)
 
@@ -82,9 +92,12 @@ The project includes:
 
 The project is also used as a practical environment for developing skills in software architecture, object lifetime and ownership management, refactoring and cross-platform C++ development.
 
+</details>
+
 ---
 
-## 🎯 Current Focus
+<details>
+<summary><b>🎯 Current Focus</b></summary>
 
 - Modern C++ and object lifetime / ownership
 - multithreading and concurrency
@@ -94,9 +107,12 @@ The project is also used as a practical environment for developing skills in sof
 - game development
 - mathematical modeling and numerical methods
 
+</details>
+
 ---
 
-## 🎓 Education
+<details>
+<summary><b>🎓 Education</b></summary>
 
 **Moscow Aviation Institute (National Research University)**  
 Higher education in a field related to **Aviation Engineering**  
@@ -110,6 +126,8 @@ Educational program: **Information Technologies in Control**
 **Moscow Aviation Institute — Computer Technology Training Center**  
 Additional education  
 `2024 — 2025`
+
+</details>
 
 ---
 
