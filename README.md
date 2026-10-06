@@ -133,6 +133,5 @@ Additional education
 
 ## 📫 Contacts
 
-- GitHub: [aleksejMarkovGit](https://github.com/aleksejMarkovGit)
-- Habr Career: [markov_cpp](https://career.habr.com/markov_cpp)
 - Telegram: `@Markov_cpp`
+- e-mail: aleksej.markov.2002@gamil.com
