@@ -134,4 +134,4 @@ Additional education
 ## 📫 Contacts
 
 - Telegram: `@Markov_cpp`
-- e-mail: aleksej.markov.2002@gamil.com
+- e-mail: aleksej.markov.2002@gmail.com
